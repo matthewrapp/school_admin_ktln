@@ -4,7 +4,7 @@ Working in sprints, allows for me to learn how to be as productive as I can, wit
 
 I took the program (that I wrote in Java) from last sprint and rewrote it in Kotlin, plus added some more functionality and logic to it. It was really nice to be able to compare and contrast both programming languages while writing the same program. It really helped me learn more about both (Java and Kotlin).
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/cBasD9rjOn8)
 
 # Development Environment
 
