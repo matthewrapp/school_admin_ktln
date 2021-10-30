@@ -1,2 +1,4 @@
 Matt | Rapp | associates | teach_Mat-associates-44 | WDD 330, CSE 330, ENG 101,  | 35000
 Jack | West | associates | teach_Jac-associates-44 | ENG 101, MAT 101,  | 34000
+Brother | Macbeth | associates | teach_Bro-associates-77 | CSE 310,  | 33000
+Brother | Thompson | associates | teach_Bro-associates-87 | WDD 330, WDD 430,  | 34000

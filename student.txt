@@ -1,1 +1,2 @@
 Matthew | Rapp | 4 | Mat-447 | WDD 330, CSE 341,  | 1200
+Test | STUDENT | 4 | Tes-474 | WDD 330, WDD 430, CSE 310, CSE 341, ENG 101,  | 3000
